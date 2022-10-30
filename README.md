@@ -12,7 +12,7 @@ Tito Tamburini - 1837335
 
 
 #### main.ipynb
-Jupyter notebook that contains all the answers of our research and theoretical questions
+Jupyter notebook that contains all the answers of our research and theoretical questions.
 In this file the Research, Bonus, Command Line and Algorithmic Question are in order.
 
 ------------
